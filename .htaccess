@@ -1,0 +1,4 @@
+AuthName "Secret Folder"
+AuthType Basic
+AuthUserFile Quotes/.htpasswd
+Require valid-user
